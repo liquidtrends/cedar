@@ -10,7 +10,7 @@ function Header() {
               </div>
               <div className="flex justify-center items-center">
                   <a href="https://forms.gle/wYz2uzfQCKXbTZKw5" target="_blank" ><button className="focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 bg-lime-500 transition duration-150 ease-in-out hover:bg-lime-600 lg:text-xl lg:font-bold  rounded text-white px-4 sm:px-10 border border-lime-700 py-2 sm:py-4 text-sm">Service Request</button></a>
-                  <button className="mx-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 bg-transparent transition duration-150 ease-in-out hover:bg-lime-600 lg:text-xl lg:font-bold rounded text-white px-4 sm:px-10 border border-lime-700 py-2 sm:py-4 text-sm" type="button" data-modal-toggle="default-modal"> Watch our Video</button>
+                  <button className="mx-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-lime-500 bg-transparent transition duration-150 ease-in-out hover:bg-lime-600 lg:text-xl lg:font-bold rounded text-white px-4 sm:px-10 border border-lime-700 py-2 sm:py-4 text-sm" type="button" data-modal-toggle="default-modal"> Watch our Video!</button>
               </div>
           </div>
       </div>
