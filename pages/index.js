@@ -14,7 +14,7 @@ export default function Home() {
 
       <Header />
 
-      <section className="text-white bg-slate-900 body-font">
+      <section className="text-white bg-slate-900 body-font" id="our-services">
           <div className="container px-5 py-24 mx-auto">
             <div className="text-center mb-20">
               <h1 className="sm:text-3xl text-2xl text-3xl font-extrabold leading-9 text-center title-font text-white mb-4">ONE SOLUTION. ONE PROVIDER. <br />ALL OF YOUR FACILITY MAINTENANCE NEEDS.</h1>
@@ -57,7 +57,7 @@ export default function Home() {
             </div>
         </section>
 
-        <section className="w-full max-w-screen-xl px-6 py-4 my-12 mx-auto bg-white rounded-md shadow-md dark:bg-gray-800">
+        <section className="w-full max-w-screen-xl px-6 py-4 my-12 mx-auto bg-white rounded-md shadow-md dark:bg-gray-800" id="contact-us">
             <h2 className="text-3xl font-semibold text-center text-gray-800 dark:text-white">Get in touch</h2>
             <p className="mt-3 text-center text-gray-600 dark:text-gray-400"></p>
 
