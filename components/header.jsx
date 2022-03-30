@@ -16,7 +16,7 @@ function Header() {
       <div className="bg-hero bg-cover bg-center" id="about-us">
           <div className="container mx-auto flex flex-col items-center py-24 sm:py-24">
               <div className="w-11/12 sm:w-2/3 lg:flex justify-center items-center flex-col  mb-5 sm:mb-10">
-                  <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-gray-800 dark:text-white font-black leading-7 md:leading-10 animate-in fade-in zoom-in duration-1000">
+                  <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl text-center text-white leading-7 md:leading-10 animate-in fade-in zoom-in duration-1000">
                       Cedar Brush Site Services & Janitorial
                   </h1>
                   <p className="mt-5 sm:mt-10 lg:w-10/12 text-white font-normal text-center text-sm sm:text-lg animate-in fade-in zoom-in duration-1000">Cedar Brush Site Services & Janitorial is an <span className="text-lime-500">Indigenous-owned and operated</span> business from Chipewyan Prairie Dene First Nation which provides site services and janitorial services to Indigenous Organizations, Industrial and Commercial Clients throughout Metro Vancouver Region and beyond.</p>
