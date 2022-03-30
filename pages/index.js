@@ -57,12 +57,12 @@ export default function Home() {
             </div>
         </section>
 
-        <section className="w-full max-w-screen-xl px-6 py-4 my-12 mx-auto bg-white rounded-md shadow-md dark:bg-gray-800" id="contact-us">
-            <h2 className="text-3xl font-semibold text-center text-gray-800 dark:text-white">Get in touch</h2>
-            <p className="mt-3 text-center text-gray-600 dark:text-gray-400"></p>
+        <section className="w-full max-w-screen-xl px-6 py-4 my-12 mx-auto rounded-md shadow-md bg-gray-800" id="contact-us">
+            <h2 className="text-3xl font-semibold text-center text-white">Get in touch</h2>
+            <p className="mt-3 text-center text-gray-400"></p>
 
             <div className="grid grid-cols-1 gap-6 mt-6 sm:grid-cols-2 md:grid-cols-2">
-                <a href="mailto:cedarbrushbc@gmail.com" className="flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200 hover:bg-blue-200 dark:hover:bg-blue-500">
+                <a href="mailto:cedarbrushbc@gmail.com" className="flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200 hover:bg-blue-500">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
@@ -70,7 +70,7 @@ export default function Home() {
                     <span className="mt-2">cedarbrushbc@gmail.com</span>
                 </a>
 
-                <a href="mailto:cedarbrushsquamish@gmail.com" className="flex flex-col items-center px-4 py-3 text-gray-700 transition-colors duration-200 transform rounded-md dark:text-gray-200 hover:bg-blue-200 dark:hover:bg-blue-500">
+                <a href="mailto:cedarbrushsquamish@gmail.com" className="flex flex-col items-center px-4 py-3 transition-colors duration-200 transform rounded-md text-gray-200 hover:bg-blue-500">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                 <path stroke-linecap="round" stroke-linejoin="round" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
